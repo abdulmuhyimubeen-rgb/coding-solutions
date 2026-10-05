@@ -1,49 +1,35 @@
-<div align="center">
+# PPS Assignment-2
 
-# 🧠 Coding Solutions
+**Course:** Programming For Problem Solving (U26CS101)
+**Institute:** Lords Institute of Engineering and Technology
+**Branch:** CSM-A | I-BE, I-Semester (LR26)
+**Unit:** 2
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-6-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-10--5--2026-green?style=for-the-badge)
+**Name:** Mohammed  abdul muhyi mubeen
+**Roll No:** 160926748045
 
-> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
+## About
+C solutions for Assignment-2, solved and accepted on HackerRank.
 
-</div>
+## Programs
 
----
+| S.No | Problem | File |
+|------|---------|------|
+| 1 | Sum and Difference of Two Numbers | `1_sum_difference.c` |
+| 2 | Functions in C | `2_functions.c` |
+| 3 | For Loop in C | `3_for_loop.c` |
+| 4 | Bitwise Operators | `4_bitwise_operators.c` |
+| 5 | Conditional Statements in C | `5_conditional_statements.c` |
 
-## 📊 Stats
+## Concepts Covered
+- Input and output with `scanf` / `printf`
+- User-defined functions
+- `for` loops
+- Bitwise operators (`&`, `|`, `^`)
+- `if` / `else if` conditional statements
 
-| Difficulty | Solved |
-|:---:|:---:|
-| 🟢 Easy | **0** |
-| 🟡 Medium | **6** |
-| 🔴 Hard | **0** |
-| **Total** | **6** |
-
-## 🛠️ Languages
-
-| Language | Solutions |
-|:---:|:---:|
-| C | **6** |
-
-## 📂 Repository Structure
-
+## How to Run
+```bash
+gcc 1_sum_difference.c -o program
+./program
 ```
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-├── codechef/
-└── gfg/
-```
-
----
-
-<div align="center">
-
-*Last updated: 2026-10-05* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
-
-</div>
